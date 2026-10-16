@@ -1,1 +1,69 @@
+# Activity 1: How the Internet Works Students simulate the interaction between a browser, server, and database to understand how requests are processed and responses are returned. 
+Activity 1: How the Internet Works
+📌 Objective
 
+To understand how a browser, server, and database communicate through the Internet using requests and responses.
+
+🛠️ Technologies / Concepts
+Web Browser
+Web Server
+Database
+HTTP/HTTPS
+Request and Response Cycle
+📖 Activity Description
+
+Students will simulate the interaction between a browser, server, and database to understand how requests are processed and responses are returned.
+
+🔄 Workflow
+The browser sends a request to the server.
+The server receives and processes the request.
+The server retrieves the required information from the database.
+The database returns the requested data to the server.
+The server sends a response to the browser.
+The browser displays the result to the user.
+💻 Example Scenario
+
+A user opens a webpage to check student marks.
+
+Browser: Requests student marks.
+Server: Processes the request.
+Database: Returns the stored marks.
+Server: Sends the response.
+Browser: Displays the marks.
+
+Example output:
+
+Student Name: Student A
+Marks: 85/100
+Status: Success
+
+📝 Tasks
+Identify the roles of the browser, server, and database.
+Draw a diagram showing the request-and-response cycle.
+Explain how the browser communicates with the server.
+Describe the role of the database.
+Demonstrate the process using a role-play or a simple program.
+📂 Expected Deliverables
+README.md — Activity description and explanation
+internet-workflow.png — Request-and-response diagram
+simulation.py — Optional program demonstrating the workflow
+reflection.md — What you learned from the activity
+🎯 Learning Outcomes
+
+By completing this activity, students will be able to:
+
+Explain the basic working of the Internet.
+Differentiate between a browser, server, and database.
+Describe the request-and-response cycle.
+Understand how web applications retrieve and display data.
+📤 Submission Instructions
+Create a GitHub repository named how-the-internet-works.
+Add the required files to the repository.
+Write a clear explanation in README.md.
+Commit and push your changes.
+Submit the GitHub repository URL.
+✅ Evaluation Criteria
+Understanding of concepts: 30%
+Workflow diagram: 25%
+Explanation and documentation: 25%
+Repository organization and submission: 20%
